@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vishal-nasre
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Python, SQL, Power BI, RDBM
+- 🌱 I’m currently learning Python, SQL, Power BI, RDBMS
 - 💞️ I’m looking to collaborate on data analysis projects
 - 📫 You can connect me on my email vgn097@gmail.com
 
